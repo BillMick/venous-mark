@@ -1,0 +1,27 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="file-new.svg">resources/new-file-svgrepo-com.svg</file>
+    <file alias="visualization.svg">resources/browser-visualization-svgrepo-com.svg</file>
+    <file alias="download.svg">resources/download-svgrepo-com.svg</file>
+    <file alias="home.svg">resources/home-svgrepo-com.svg</file>
+    <file alias="picture.svg">resources/picture-svgrepo-com.svg</file>
+    <file alias="upload.svg">resources/upload-to-cloud-svgrepo-com.svg</file>
+    <file alias="add.svg">resources/add-circle-outline-svgrepo-com.svg</file>
+    <file alias="alert-1.svg">resources/alert-circle-outline-svgrepo-com.svg</file>
+    <file alias="alert-2.svg">resources/alert-outline-svgrepo-com.svg</file>
+    <file alias="comparison-1.svg">resources/analysis-comparison-svgrepo-com-1.svg</file>
+    <file alias="comparison-2.svg">resources/analysis-comparison-svgrepo-com.svg</file>
+    <file alias="comparison-3.svg">resources/comparison-svgrepo-com.svg</file>
+    <file alias="help.svg">resources/help-circle-outline-svgrepo-com.svg</file>
+    <file alias="about.svg">resources/about-12.svg</file>
+    <file alias="about-1.svg">resources/about-44.svg</file>
+    <file alias="image.svg">resources/image-outline-svgrepo-com.svg</file>
+    <file alias="up.svg">resources/thumbs-up-outline-svgrepo-com.svg</file>
+    <file alias="down.svg">resources/thumbs-down-outline-svgrepo-com.svg</file>
+    <file alias="power.svg">resources/power-outline-svgrepo-com.svg</file>
+    <file alias="multi-tab.svg">resources/multi-tab-svgrepo-com.svg</file>
+    <file alias="play.svg">resources/play-circle-outline-svgrepo-com.svg</file>
+    <file alias="features.svg">resources/features-svgrepo-com.svg</file>
+    <file alias="curve.svg">resources/curve-13.svg</file>
+</qresource>
+</RCC>
